@@ -1,10 +1,9 @@
 //1번 문제
 let a = 1
 let b = 2 
-tmp=b
-b=a
-a=tmp
-
+let tmp=a
+a=b
+b=tmp
 console.log(a,b)
 
 //2번
